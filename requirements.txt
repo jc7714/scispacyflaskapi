@@ -1,0 +1,4 @@
+Flask==2.0.1
+spacy==3.0.6
+scispacy==0.4.0
+gunicorn==20.1.0
